@@ -14,7 +14,7 @@ import PredictPrice from './Components/Prediction/PredictPrice/PredictPrice';
 import { Toaster } from 'react-hot-toast';
 
 const App = () => {
-    return (
+    return (     //Routing
         <Router>
             <Toaster/>
             <Routes>
